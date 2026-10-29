@@ -160,7 +160,7 @@ text-shadow: 0 0 10px var(--neon);
   background-image:
     linear-gradient(to top, black 20%, transparent),
     linear-gradient(to right, black 5%, transparent),
-    url(/FitX/11460CBD-1687-4A75-A330-A3C88477AA25.png);
+    url(11460CBD-1687-4A75-A330-A3C88477AA25.png);
   background-size: 100% 100%, 100% 100%, 60%;
   background-position: 0 0, 0 0, 100% 0%;
   background-repeat: no-repeat;
