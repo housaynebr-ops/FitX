@@ -868,7 +868,7 @@ padding: 15px 20px;
 .im2 { grid-area: img2; background-image: url(/FitX/IMG_4664.jpeg); }
 .im3 { grid-area: img3; background-image: url(/FitX/IMG_4674.jpeg); }
 .im4 { grid-area: img4; background-image: url(/IMG_4673.jpeg); }
-.im5 { grid-area: img5; background-image: url(/FitX/IMG_4669.jpeg); }
+.im5 { grid-area: img5; background-image: url(/FitX/IMG_4673.jpeg); }
 
 
 
@@ -1432,3 +1432,4 @@ header>div:last-child {display: none;}
 }
 
 }
+
